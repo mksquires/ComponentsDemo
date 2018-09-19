@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.aircraftpropagation-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.cesium-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.communications-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.core-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.graphics-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.models-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.navigation-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.navigation.advanced-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.orbitpropagation-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.platforms-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.platforms.graphics-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.radar-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.routedesign-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.segmentpropagation-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.spatial-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.terrainanalysis-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.terrainreaders-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.tracking-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="JAR_LOCATION/Java/Jars/agi.foundation.tracking.graphics-COMPONENTS_RELEASE.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:JAVADOC_LOCATION"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
